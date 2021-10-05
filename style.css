@@ -1,0 +1,163 @@
+body{
+    margin: 0%;
+    padding: 0;
+    background-color: #455a64;
+}
+
+.navbar{
+    background-color: #1c313a !important;
+    
+   
+}
+.nav{
+    text-shadow: 2px 2px 6px gray !important;
+    color: white !important;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.profile{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    background-color: #455a64;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.image{
+    
+    
+    display: flex;
+    display: inline-block;
+
+}
+.profile-image{
+    width: 300px;
+    border-radius: 60px;
+}
+.intr{
+    
+    
+    display: flex;
+    display: inline-block;
+    
+}
+.li{
+    list-style-type: none;
+    font-family: sans-serif !important;
+    text-align: justify !important;
+    text-shadow: 2px 2px 4px black !important;
+    color: white !important;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.footer{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: #718792;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.sec1{
+    display: inline-block;
+    font-weight: bold;
+    font-family: sans-serif !important;
+    text-align: justify !important;
+    text-shadow: 2px 2px 4px black !important;
+    color: white !important;
+    
+}
+.sec2{
+    display: inline-block;
+    font-weight: bold;
+    font-family: sans-serif !important;
+    text-align: justify !important;
+    text-shadow: 2px 2px 4px gray !important;
+    color: white !important;
+}
+.project li{
+    list-style-type: none;
+    font-weight: bold;
+    font-family: sans-serif !important;
+    text-align: justify !important;
+    text-shadow: 2px 2px 4px  gray !important;
+}
+.link{
+    text-shadow: 2px 2px 4px gray;
+    list-style-type: none;
+    font-weight: bold;
+    font-family: sans-serif !important;
+    color: white;
+    
+}
+.link:active{
+    color: black;
+
+}
+
+.skill-li{
+    font-size: 20px;
+    
+}
+.mt-40{
+    display: flex;
+    
+    width: 100%;
+    height: 500px;
+
+    align-items: center;
+
+    justify-content: space-around;
+
+
+    
+    
+}
+.skill{
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.expert{
+    font-size: 60px;
+}
+.card{
+    width: 300px;
+    height: 450px;
+}
+.team{
+    margin-left: 45%;
+    margin-top: 30px;
+    font-weight: bold;
+    font-family: sans-serif !important;
+    color: white;
+    text-shadow: 2px 2px 4px gray;
+    font-size: 45px;
+
+
+}
+.h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+    color: black !important;
+}
+.contact{
+    width: 100%;
+    height: 300px;
+
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif !important;
+    color: white;
+    text-shadow: 2px 2px 4px gray;
+
+}
